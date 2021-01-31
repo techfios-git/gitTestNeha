@@ -16,6 +16,7 @@ public class testtest {
 	
 	public static void printMe3() {
 		System.out.println("print");
+		System.out.println("print");
 	}
 	
 	public static void printMe4() {
